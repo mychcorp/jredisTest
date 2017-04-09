@@ -1,0 +1,2 @@
+# jredisTest
+java  jredis  redis
